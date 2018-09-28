@@ -18,4 +18,4 @@ class PasswordResetsController < ApplicationController
 
   def edit
   end
-en
+end
