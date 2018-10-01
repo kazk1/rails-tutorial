@@ -10,11 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-<<<<<<< HEAD
-ActiveRecord::Schema.define(version: 20180926055234) do
-=======
 ActiveRecord::Schema.define(version: 20180928081957) do
->>>>>>> password-reset
 
   create_table "users", force: :cascade do |t|
     t.string "name"
