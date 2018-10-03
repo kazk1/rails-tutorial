@@ -25,6 +25,7 @@ group :development do
   gem 'listen',                '3.1.5'
   gem 'spring',                '2.0.2'
   gem 'spring-watcher-listen', '2.0.1'
+  gem 'letter_opener'
 end
 
 group :test do
@@ -47,3 +48,4 @@ source 'https://rubygems.org'
 
 gem 'rails',          '5.1.6'
 gem 'bootstrap-sass', '3.3.7'
+
